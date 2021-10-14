@@ -6,6 +6,7 @@ table, th, td {
 body {
     background-image: url('microchip.jpg');
     background-repeat: no-repeat;
+    text-align: right;
   }
 
 header {
@@ -22,6 +23,7 @@ footer {
     padding: 3px 10px 3px 10px;
     background-color: #806363;
     opacity: 0.9;
+    text-align: left;
   }
 
 section {
